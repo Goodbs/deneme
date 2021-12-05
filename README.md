@@ -3,7 +3,6 @@ Ben, Good
 
 
 <div align="center">
-@@ -12,26 +12,23 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Good&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"></a>
   </div>
 

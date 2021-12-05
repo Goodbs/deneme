@@ -8,11 +8,10 @@ Ben, Good
   </div>
 
  <h2>Hesaplar</h2>
-### 👤 Hesaplarım
+👤 Hesaplarım
 <div align="center">
    <a href="https://discord.com/users/817102024704786502" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCsfQk3QOazFya9tjl8kbwjg" target"blank_"><img src="https://img.shields.io/badge/Youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-@@ -42,8 +39,9 @@
 </div>
 
 

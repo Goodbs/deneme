@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Good&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Goodbs&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"></a>
   </div>
 
  <h2>Hesaplar</h2>
